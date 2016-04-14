@@ -1,0 +1,45 @@
+TESTING
+Current best area : 499497
+Final Best Tree : ['10:(-,B,A):499497', '01:(|,B,A):499497']
+()
+test1 : 5 points
+.Current best area : 744000
+Current best area : 737048
+Current best area : 736500
+Final Best Tree : ['011:(-,(|,C,A),B):736500', '100:(|,(-,C,A),B):736500']
+()
+test2 : 5 points
+.Current best area : 1006458
+Current best area : 995410
+Current best area : 754470
+Current best area : 741524
+Final Best Tree : ['1001:(-,(|,(-,D,C),B),A):741524', '0110:(|,(-,(|,D,C),B),A):741524']
+()
+test3 : 5 points
+.Current best area : 1489875
+Current best area : 1471561
+Current best area : 1087500
+Current best area : 865277
+Current best area : 855355
+Current best area : 660513
+Final Best Tree : ['01100:(|,(-,(|,(-,D,B),A),E),C):660513', '10011:(-,(|,(-,(|,D,B),A),E),C):660513']
+()
+test4 : 5 points
+.Current best area : 2093774
+Current best area : 2089316
+Current best area : 1675465
+Current best area : 1671007
+Current best area : 1434733
+Current best area : 1352550
+Current best area : 1344930
+Current best area : 1339665
+Current best area : 1338337
+Final Best Tree : ['101101:(|,(-,(|,(-,D,B),(-,F,E)),A),C):1338337', '010010:(-,(|,(-,(|,D,B),(|,F,E)),A),C):1338337']
+()
+test5 : 5 points
+.
+----------------------------------------------------------------------
+Ran 5 tests in 2031.008s
+
+OK
+
