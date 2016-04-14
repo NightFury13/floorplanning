@@ -1,16 +1,9 @@
-Calcul d'un plan de découpage optimale
-============
-Projet IFT-2015-TP2
-Calcul d'un plan de découpage optimale (aire minimale) représenté par une structure d'arbre binaire.
+Calculating an optimal cutting plan
+===================================
+Project IFT-2015-TP2 Calculating an optimal cutting plan (minimum area) represented by a binary tree structure.
 
-Dans ma solution ce trouve également l'implémentation d'un algorithme qui fait l'approximation d'un plan
-de découpage optimale. Cet algorithme ne donne pas la solution optimale, mais le temps de calcul est plus respectable.
-"Simulated Annealing Algorithm for Floorplanning".
+In my solution that also implementing an algorithm that approximates a optimal cutting plan. This algorithm does not give the optimal solution, but the calculation time is more respectable. "Simulated Annealing Algorithm for Floorplanning".
 
-Mise en situation:
+Scenario:
 
-Pour une entreprise qui expédie plusieurs objets à un même destinataire, il est donc
-important de minimiser le volume de la boîte à utiliser pour envoyer ces objets. Le problème est
-ici de trouver, pour une liste d’objets donnés, de dimensions différentes, la configuration spatiale
-qui permette d’utiliser la plus petite boîte, possible, c’est-à-dire de minimiser l’espace perdu dans
-la boîte.
+For a company that sends more objects to one consignee, it is important to minimize the volume of the box to use to send these objects. The problem here is to find, for a list of given objects of different sizes, the spatial configuration that allows to use the smallest box possible, that is to say to minimize wasted space in the box .
